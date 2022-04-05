@@ -1,0 +1,15 @@
+
+name: "demo-website"
+navbar:
+  title: "My demonstration website, not about cats"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<username@carleton.ca>
+    - icon: fa-github fa-lg
+      href: http://github.com/rozdakin/
+output:
+  html_document:
+    theme: darkly
