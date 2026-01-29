@@ -1,0 +1,29 @@
+---
+title: "Research"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### ![](images/clipboard-3850858346.png){width="800"}
+
+From dodging collisions to deciding how much effort to expend on
+offspring, behaviour provides a means for animals to respond to diverse
+challenges in nature. The goal of our research is to understand the
+mechanisms that have evolved to solve sensory, motor, and
+decision-making problems. Some of our recent interests:
+
+\> How animals use multiple cues to guide movement and decision-making\
+\> The function and origin of movement behaviours\
+\> How individual behaviours determine population-level processes
+
+Understanding the mechanistic causes of behavior is necessary to
+anticipate and solve many applied problems in ecology. Natural
+behavioural systems can also provide inspiration for solving
+technological problems (after all, [evolution is cleverer than you
+are](https://en.wikipedia.org/wiki/Orgel%27s_rules)). Our approach to
+animal behaviour often involves gleaning insights from high-throughput
+data.
+
+Finally, we also aim to inspire broader interest and participation in
+science through our outreach and teaching activities.

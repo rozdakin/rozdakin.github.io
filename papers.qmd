@@ -1,0 +1,362 @@
+---
+title: "Papers"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### ![](images/clipboard-509578837.png){width="800"}
+
+**Research Articles**
+
+***Submitted***
+
+EK Jackson and R Dakin. In review. [Migration and the excess exposure of
+birds to human density in North
+America.](https://doi.org/10.1101/2022.11.28.518244) \[biorXiv
+preprint\]
+
+I Berberi, PS Segre, DL Altshuler, R Dakin. In revision. Unpredictable
+hummingbirds: [Flight path entropy is constrained by speed and wing
+loading.](https://www.biorxiv.org/content/10.1101/2020.08.11.246926v1)
+\[biorXiv preprint\]
+
+EK Jackson, JA Elmore, SR Loss, BM Winger, R Dakin. In revision. [Flight
+morphology and visual obstruction predict collision risk in
+birds.](https://www.biorxiv.org/content/10.1101/2020.07.20.212985v1)
+\[biorXiv preprint\]
+
+R Dakin, P Clunis, TB Ryder. In revision. [Reciprocal social ties drive
+stable cooperation within a
+network.](https://doi.org/10.1101/2020.11.06.371567) \[biorXiv
+preprint\]
+
+R Dakin, TB Ryder. In revision. [Gender bias in research teams and the
+under-representation of women in
+science.](https://doi.org/10.1101/741694) \[bioRxiv preprint\]
+
+***Peer-reviewed Articles***
+
+***2024***
+
+VB Baliga, R Dakin, DR Wylie, DL Altshuler (2024) [Hummingbirds use
+distinct control strategies for forward and hovering
+flight.](https://doi.org/10.1098/rspb.2023.2155) **Proceedings B.**
+https://doi.org/10.1098/rspb.2023.2155
+
+PE Bolton, TB Ryder, R Dakin, JL Houtz, IT Moore, CN Balakrishnan, BN
+Horton (2024) [Neurogenomic landscape of social status-dependent
+cooperative display behavior.](https://doi.org/10.1111/mec.17327)
+**Molecular Ecology.** https://doi.org/10.1111/mec.17327
+
+***2023***
+
+KM Scott, A Berberi, G Bulte, R Dakin, SJ Cooke (2023) [Freshwater
+turtle climbing abilities: implications for the design and use of
+shoreline erosion control
+structures.](https://doi.org/10.1016/j.ecoleng.2023.107093) **Ecological
+Engineering.** https://doi.org/10.1016/j.ecoleng.2023.107093
+
+KM Scott, A Danko, P Plant, and R Dakin (2023) [What causes
+bird-building collision risk? Seasonal dynamics and weather
+drivers.](http://dx.doi.org/10.1002/ece3.9974) **Ecology and
+Evolution.** http://dx.doi.org/10.1002/ece3.9974
+
+I Berberi, ET Miller, R Dakin (2023) [The effect of sociality on
+competitive interactions among
+birds.](https://doi.org/10.1098/rspb.2022.1894) **Proceedings B.**
+https://doi.org/10.1098/rspb.2022.1894 \[[biorXiv
+preprint](https://doi.org/10.1101/2022.05.09.491173)\]
+
+M Fuxjager and 23 co-authors including R Dakin (2023) [Systems biology
+as a framework to understand the physiological and endocrine bases of
+behavior and its evolution—from concepts to a case study in
+birds.](https://doi.org/10.1016/j.yhbeh.2023.105340) **Hormones and
+Behavior.** https://doi.org/10.1016/j.yhbeh.2023.105340
+
+GS Betini, E Malaj, C Donkersteeg, AC Smith, S Wilson, GW Mitchell, RG
+Clark, CA Bishop, LE Burns, R Dakin, C Morissey, N Mahony (2023)
+[Spatial variation in the association between agricultural activities
+and bird communities in
+Canada.](https://doi.org/10.1016/j.scitotenv.2023.163413) **Science of
+the Total Environment.** https://doi.org/10.1016/j.scitotenv.2023.163413
+
+***2022***
+
+DG Roche, I Berberi, F Dhane, F Lauzon, S Soeharjono, R Dakin, SA
+Binning (2022) [The quality of open datasets shared by researchers in
+ecology and evolution is moderately repeatable and slow to
+change.](https://royalsocietypublishing.org/doi/10.1098/rspb.2021.2780)
+**Proceedings B.** https://doi.org/10.1098/rspb.2021.2780
+
+***2021***
+
+M Campbell, R Dakin, S Stowe, K Burton, B Raven, M Mapani, JW Dawson, A
+Adler (2021) [Thoracic weighting of restrained subjects during
+exhaustion recovery causes loss of lung reserve volume in a model of
+police arrest.](https://doi.org/10.1038/s41598-021-94157-w) **Scientific
+Reports.** https://doi.org/10.1038/s41598-021-94157-w
+
+SM Bertram, R Dakin, SJ Harrison, DT Tremblay, ML Reifer, GR Kolluru
+(2021) [Acoustic sigaling performance: variation in vigour at multiple
+scales.](https://doi.org/10.1016/j.anbehav.2021.08.001) **Animal
+Behaviour.** https://doi.org/10.1016/j.anbehav.2021.08.001
+
+BJ Vernasco, R Dakin, AD Majer, MF Haussmann, TB Ryder, IT Moore (2021)
+[Longitudinal dynamics and behavioral correlates of telomeres in male
+wire-tailed manakins.](https://doi.org/10.1111/1365-2435.13715)
+**Functional Ecology.** https://doi.org/10.1111/1365-2435.13715
+
+R Dakin, IT Moore, BM Horton, BJ Vernasco, TB Ryder (2021)
+[Testosterone-mediated behavior shapes the emergent properties of social
+networks.](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13305)
+**Journal of Animal Ecology.** \[[bioRxiv
+preprint](https://www.biorxiv.org/content/10.1101/737650v2.full)\]
+https://doi.org/10.1111/1365-2656.13305
+
+***2020***
+
+R Dakin, PS Segre, DL Altshuler (2020) [Individual variation and the
+biomechanics of maneuvering flight in
+hummingbirds.](https://jeb.biologists.org/content/223/20/jeb161828)
+**Journal of Experimental Biology.** 223: jeb161828.
+https://doi.org/10.1242/jeb.161828
+
+R Dakin, TB Ryder (2020) [Reciprocity and behavioral heterogeneity
+govern the stability of social
+networks.](https://www.pnas.org/content/early/2020/01/23/1913284117)
+**PNAS.** 117: 2993-2999. \[[bioRxiv
+preprint](https://www.biorxiv.org/content/10.1101/694166v1)\]
+https://doi.org/10.1073/pnas.1913284117
+
+TB Ryder\*, R Dakin\*, BJ Vernasco, BS Evans, BM Horton, IT Moore (2020)
+[Testosterone modulates status-specific patterns of cooperation in a
+social
+network.](https://www.journals.uchicago.edu/doi/abs/10.1086/706236?af=R&mobileUi=0)
+**The American Naturalist.** 195: 82-94. \[[bioRxiv
+preprint](https://www.biorxiv.org/content/10.1101/453548v3)\]
+https://doi.org/10.1086/706236 \*co-first authors
+
+***2019***
+
+B Goller, TK Fellows, R Dakin, LP Tyrell, E Fernandez-Juricic, DL
+Altshuler (2019) [Spatial and temporal resolution of the visual system
+of the Anna’s hummingbird (*Calypte anna*) relative to other
+birds.](https://www.journals.uchicago.edu/doi/abs/10.1086/705124?journalCode=pbz)
+**Physiological and Biochemical Zoology.** 92: 482-495. In Press.
+https://doi.org/10.1086/705124
+
+SA Kane, Y Wang, R Fang, Y Lu, R Dakin (2019) [How conspicuous are
+peacock eyespots and other colorful feathers in the eyes of mammalian
+predators?](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0210924)
+**PLOS One.** 14: e0210924. [\[bioRxiv
+preprint\]](https://www.biorxiv.org/content/early/2019/01/07/514240)
+https://doi.org/10.1371/journal.pone.0210924
+
+***2018***
+
+R Dakin, TB Ryder (2018) [Dynamic network partnerships and social
+contagion drive
+cooperation](https://royalsocietypublishing.org/doi/full/10.1098/rspb.2018.1973).
+**Proceedings B.** 285: 20181973. https://doi.org/10.1098/rspb.2018.1973
+[\[bioRxiv
+preprint\]](https://www.biorxiv.org/content/early/2018/11/06/430843)
+
+R Dakin\*, PS Segre\*, AD Straw, DL Altshuler (2018) [Morphology, muscle
+capacity, skill, and maneuvering ability in
+hummingbirds.](http://science.sciencemag.org/content/359/6376/653)
+**Science.** 359: 653-657. \[Cover article\]
+https://doi.org/10.1126/science.aao7104  \*co-first authors
+
+SA Kane, D van Beveren, R Dakin (2018) [Biomechanics of the peafowl’s
+crest reveals frequencies tuned to social
+displays.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0207247)
+**PLOS One**. 13: e0207247. https://doi.org/10.1371/journal.pone.0207247
+[\[bioRxiv
+preprint\]](https://www.biorxiv.org/content/early/2018/10/22/197525)
+
+***2017 – maternity leave***
+
+***2016***
+
+PS Segre\*, R Dakin\*, TG Read, AD Straw, DL Altshuler (2016)
+[Mechanical constraints on flight at high elevation decrease maneuvering
+performance of
+hummingbirds.](http://www.cell.com/current-biology/abstract/S0960-9822(16)31213-1)
+**Current Biology.** 26: 3368-3374.
+<http://dx.doi.org/10.1016/j.cub.2016.10.028>   \*co-first authors
+
+EE LeDue, K Mann, E Koch, B Chu, R Dakin, MD Gordon (2016)
+[Starvation-induced depotentiation of bitter taste in
+*Drosophila*](http://www.cell.com/current-biology/abstract/S0960-9822(16)30940-X).
+**Current Biology**. 26: 2854-2861.
+<http://dx.doi.org/10.1016/j.cub.2016.08.028>
+
+R Dakin, TK Fellows, DL Altshuler (2016) [Visual guidance of forward
+flight in hummingbirds reveals control based on image features instead
+of pattern
+velocity](http://www.pnas.org/content/early/2016/07/15/1603221113.full).
+**PNAS.** 113: 8849-8854. doi: 10.1073/pnas.1603221113
+([videos](https://www.youtube.com/playlist?list=PL-nCys3e57XohA7eZNaVa6_8ZdvRXj0Qg))
+
+R Dakin, JQ Ouyang, ÁZ Lendvai, MF Haussmann, IT Moore, F Bonier (2016)
+[Weather matters: begging calls are temperature- and size-dependent
+signals of offspring
+state.](http://web.unideb.hu/~lendvai/publications/Dakin_etal_2016_Beh.pdf)
+**Behaviour.** 153: 871-896. <https://doi.org/10.1163/1568539X-00003370>
+
+R Dakin, O McCrossan, JF Hare, R Montgomerie, SA Kane (2016)
+[Biomechanics of the peacock’s display: how feather structure and
+resonance influence multimodal
+signaling](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152759).
+**PLOS One.** 11: e0152759.
+<https://doi.org/10.1371/journal.pone.0152759> ([supplemental
+videos](https://www.youtube.com/playlist?list=PL-nCys3e57XoNS72IF8S5eUbPeX4QmEsQ))
+
+R Dakin, ÁZ Lendvai, JQ Ouyang, IT Moore, and F Bonier (2016) [Plumage
+colour is associated with partner parental care in mutually ornamented
+tree
+swallows.](http://roslyndakin.com/wp-content/uploads/2016/05/2016Dakinetal%20tree%20swallow%20plumage%20parental%20care.pdf)
+**Animal Behaviour.** 111: 111-118.
+<https://doi.org/10.1016/j.anbehav.2015.10.006>
+
+***2015***
+
+PS Segre, R Dakin, VB Zordan, MH Dickinson, AD Straw, DL Altshuler
+(2015) [Burst muscle performance predicts the speed, acceleration, and
+turning performance of Anna’s
+hummingbirds](http://elifesciences.org/content/4/e11159). **eLife.**
+<https://doi.org/10.7554/eLife.11159>
+
+DL Altshuler, JW Bahlman, R Dakin, AH Gaede, B Goller, D Lentink, PS
+Segre, and DA Skandalis (2015) [The biophysics of bird flight:
+functional relationships integrate aerodynamics, morphology, kinematics,
+muscles and
+sensors.](http://roslyndakin.com/wp-content/uploads/2016/05/2015Altshuleretal%20biophysics%20of%20bird%20flight%20review.pdf)
+**Canadian Journal of Zoology.** 93: 961-975.
+<https://doi.org/10.1139/cjz-2015-0103>
+
+ÁZ Lendvai, Ç Akçay, JQ Ouyang, R Dakin, A Domalik, PS St John, M
+Stanback, IT Moore, and F Bonier (2015) [Analysis of the optimal
+duration of behavioral observations based on an automated continuous
+monitoring system in tree swallows (*Tachycineta bicolor*): is one hour
+good
+enough?](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141194)
+**PLoS One.** 10: e0141194. [Preprint available on
+PeerJ](https://peerj.com/preprints/1403.pdf).
+<https://doi.org/10.1371/journal.pone.0141194>
+
+JQ Ouyang, ÁZ Lendvai, R Dakin, A Domalik, V Fasanello, B Vassallo, MF
+Haussmann, IT Moore, and F Bonier (2015) [Weathering the storm: parental
+effort and experimental manipulation of stress hormones predict brood
+survival.](http://www.biomedcentral.com/1471-2148/15/219) **BMC
+Evolutionary Biology.** 15: 219.
+<https://doi.org/10.1186/s12862-015-0497-8>
+
+***2014***
+
+R Dakin and R Montgomerie (2014) [Condition-dependent mate assessment
+and choice by peahens: implications for sexual
+selection.](http://www.roslyndakin.com/wp-content/uploads/2015/05/2014bDakinandMontgomerie.pdf)
+**Behavioral Ecology.** 25: 1097-1104.
+<https://doi.org/10.1093/beheco/aru087>
+
+R Dakin and R Montgomerie (2014) [Deceptive copulation calls attract
+female visitors to peacock
+leks.](http://www.roslyndakin.com/wp-content/uploads/2015/05/2014DakinandMontgomerie.pdf)
+**American Naturalist.** 183: 558-564. <https://doi.org/10.1086/675393>
+
+***2013 and earlier***
+
+R Dakin and R Montgomerie (2013) [Eye for an eyespot: how iridescent
+plumage ocelli influence peacock mating
+success.](http://www.roslyndakin.com/wp-content/uploads/2015/08/2013DakinandMontgomerie_small.pdf)
+**Behavioral Ecology.** 24: 1048-1057
+<https://doi.org/10.1093/beheco/art045>
+
+R Dakin (2011) [The crest of the peafowl: a sexually dimorphic plumage
+ornament signals condition in both males and
+females](http://roslyndakin.com/wp-content/uploads/2011/12/2011Dakin.pdf).
+**Journal of Avian Biology.** 42: 405-414.
+<http://dx.doi.org/10.1111/j.1600-048X.2011.05444.x>
+
+R Dakin and R Montgomerie (2011) [Peahens prefer peacocks displaying
+more eyespots, but
+rarely](http://roslyndakin.com/wp-content/uploads/2011/04/2011DakinandMontgomerie.pdf).
+**Animal Behaviour.** 82: 21-28.
+<https://doi.org/10.1016/j.anbehav.2011.03.016>
+
+R Dakin and R Montgomerie (2009) [Peacocks orient their courtship
+displays towards the
+sun](http://roslyndakin.com/wp-content/uploads/2011/04/2009DakinandMontgomerie.pdf).
+**Behavioral Ecology and Sociobiology.** 63: 825-834.
+<https://doi.org/10.1007/s00265-009-0717-6>  ([supplementary
+video](http://static-content.springer.com/esm/art%3A10.1007%2Fs00265-009-0717-6/MediaObjects/265_2009_717_MOESM1_ESM.mp4))
+
+**Data and analyses**
+
+figshare (2023) Repository for: The effect of sociality on competitive
+interactions among birds.
+[https://doi.org/10.6084/m9.figshare.19470026.v1 ](https://doi.org/10.6084/m9.figshare.19470026.v1)
+
+figshare (2020) Supplementary Materials for: *Testosterone-mediated
+behavior shapes the emergent properties of social networks.*
+<https://doi.org/10.6084/m9.figshare.8321036.v1>
+
+Dryad (2019) Data from: *Testosterone modulates status-specific patterns
+of cooperation in a social network.*
+<https://doi.org/10.5061/dryad.fm129s7>
+
+Dspace (2018) Dataset for: *Dynamic network partnerships and social
+contagion drive cooperation*.
+[https://repository.si.edu/handle/10088/35448](https://doi.org/10.25570/nzp/10088/35448)
+
+figshare (2018) Statistical supplement to: *Biomechanics of the
+peafowl’s crest reveals frequencies tuned to social displays*.
+<https://doi.org/10.6084/m9.figshare.5451379.v5>
+
+figshare (2017) Statistical supplement to: *Evolution reveals the
+biomechanical organization of maneuvering flight in hummingbirds.* doi:
+<https://doi.org/10.6084/m9.figshare.5307136.v3>
+
+figshare (2016) Statistical supplement to: *Visual guidance of forward
+flight in hummingbirds reveals control based on image features instead
+of pattern velocity.* doi:
+<https://doi.org/10.6084/m9.figshare.3382759.v4>
+
+figshare (2016) Statistical supplement to: *Mechanical constraints on
+flight at high elevation decrease maneuvering performance of
+hummingbirds*. doi: <https://doi.org/10.6084/m9.figshare.3466361.v4>
+
+Dryad (2015) Data from: *Burst muscle performance predicts the speed,
+acceleration, and turning performance of Anna’s hummingbirds.* doi:
+<http://dx.doi.org/10.5061/dryad.14762>
+
+Dryad (2013) Data from: *Deceptive copulation calls attract female
+visitors to peacock leks.* doi: <http://dx.doi.org/10.5061/dryad.vt562>
+
+**Other published work**
+
+[The molecular drivers of social network
+dynamics](https://animalecologyinfocus.com/2021/01/25/the-molecular-drivers-of-social-network-dynamics/).
+Invited contribution to Animal Ecology in Focus, written with Ben
+Vernasco. January 2021.
+
+[Grades, the currency on
+campus.](http://www.universityaffairs.ca/features/feature-article/grades-currency-on-campus/)
+University Affairs. December 2012.
+
+[Accreditation of environmental degree programs raises
+concerns.](http://www.universityaffairs.ca/news/news-article/accreditation-of-environmental-degree-programs-raises-concerns/)
+University Affairs. November 2012.
+
+Innovative, naturally. The Kingston Whig Standard and Innovation.ca.
+November 2011.
+
+Dakin, PhD Thesis (2013) [Linking courtship behaviour, colour perception
+and mate choice decisions in
+peafowl.](http://qspace.library.queensu.ca/handle/1974/7857)
+
+Dakin, MSc Thesis (2008) [The role of the visual train ornament in the
+courtship of peafowl, *Pavo
+cristatus*.](https://qspace.library.queensu.ca/handle/1974/1423)

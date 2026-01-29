@@ -1,0 +1,152 @@
+---
+title: "Team"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### Roz Dakin, Principal Investigator
+
+I am fascinated by animal behaviour, how it works, and how it evolves. I
+completed my BSc, MSc and PhD at Queen’s University, and was a
+postdoctoral fellow at UBC and the Smithsonian. I am passionate about
+data and quantitative biology.
+
+------------------------------------------------------------------------
+
+### Graduate Students
+
+-   **Émilie Gagnon, PhD** – Hummingbird behaviour
+
+-   **Igor Kabic, MSc** - Hummingbird collision avoidance
+
+------------------------------------------------------------------------
+
+### Undergraduate Students
+
+-   **Griffin Mattes** - work study
+
+-   **Shayla Denis** - iCureus award
+
+-   **Julia Fini** - BIOL 4901
+
+-   **Zeinab Awada** - BIOL 4901
+
+-   **Nahit Ozcelik** - BIOL 4901
+
+------------------------------------------------------------------------
+
+#### Alumni
+
+-   Dr. Ethan Hermer, postdoc 2022-23 – Heuristics in science
+
+-   Juan Camilo Ríos-Orjuela, PhD 2025 - Hummingbird morphology and
+    evolution, ELAP award
+
+-   Ilias Berberi, PhD 2024 – Social and ecological competition, OGS
+    award
+
+-   Caitlin Menzies, MSc 2024 – Social behaviour in turtles (co w/
+    Christina Davy)
+
+-   Emil Isaksson, PhD 2024 – Social learning in birds (co w/ Julien
+    Martin and Julie Morand-Ferron)
+
+-   Ru Ratnayake, MSc 2024 – Effects of the environment on social
+    structure
+
+-   Courtney Donkersteeg, MSc 2022 – Exploration behaviour in
+    hummingbirds
+
+-   Erin Jackson, MSc 2022 – Bird migration dynamics
+
+-   Aayushi Sharma BIOL 4901 2025 - Hummingbird behaviour
+
+-   Anshika Kumar BIOL 4901 2025 - Hummingbird behaviour
+
+-   Brendan McKernan ENSC 4901 2025 - Hummingbird behaviour
+
+-   Nour Salama 2024-25 – DSRI Award, NSERC Undergraduate Student
+    Research Award
+
+-   Percy Hentschel 2025 - Hummingbird behaviour, DSRI award
+
+-   Lacey Pilon 2025 - Hummingbird behaviour, BISRI award
+
+-   Zoe Waller 2025 - Laura Thomas Summer Research Internship
+
+-   Josh Cadieux 2024-25 - Bird-building collisions, NSERC Undergraduate
+    Student Research Award
+
+-   Sydney Williams BIOL 4901 and 4908 2024-25 - Hummingbird behaviour
+
+-   Ayesha Ahmed BIOL 4908 2024-25 – Animal vision
+
+-   Steph Vienneau BIOL 3901 2024 – Birds and urbanization
+
+-   Tianna Huynh BIOL 4908 2023-24 – Hummingbird competition
+
+-   Emily Cornthwaite BIOL 4908 2023-24 – NSERC Undergraduate Student
+    Research Award
+
+-   MJ McAllister work study 2024 – Hummingbird competition
+
+-   Emma Simpson BIOL 4901 2024 – Hummingbird competition
+
+-   Cara Garneau BIOL 4901 2024 – Data analysis
+
+-   Nader St-Amant 2023 – Laura Thomas Summer Research Internship in
+    Biology
+
+-   Augusto Urena Pichardo BIOL 4908 2022-23 – Evolution of flocking
+
+-   Amy Bachhuber BIOL 4908 2022-23 – Flocking and urbaniziation
+
+-   Rebecca Moreno BIOL 4908 2022-23 – Sociality and migration
+
+-   Rami Al-Arabi BIOL 4901 2022-23 – Bird skeletal anatomy
+
+-   Lauren Miner BIOL 4901 2022-23 – Hummingbird skeletal anatomy
+
+-   Emily Cornthwaite BIOL 4901 2022-23 – Local hummingbird feeder
+    monitoring
+
+-   Eric Maquignaz 2022 – Social networks across species, iCureus Award
+
+-   Justyna Fleming BIOL 4908 2021-22 – Inheritance of social capital
+
+-   Charlotte Jerome 2021 – Hummingbird foraging behaviour, DSRI Award
+
+-   Jessica Bellefeuille BIOL 4901 and 4908 2020-22 – Winter flocking in
+    birds
+
+-   Brenna Gagliardi BIOL 4901 and 4908 2020-22 – Scaling of social
+    network properties
+
+-   Ashley Irwin BIOL 4908 2020-21 – Interpretation of data by
+    scientists
+
+-   Jenna Watson BIOL 4908 2020-21 – Mate choice for social skills
+
+-   Grace Simonds ENSC 4908 2020-21 – Bird distributions & urbanization
+
+-   Zoe Hillier-Weltman BIOL 4908 2020-21 – Bird population estimates &
+    observer age
+
+-   Kara Scott BIOL 4901 2020-21 – Weather and bird building collisions,
+    iCureus Award
+
+-   Courtney Donkersteeg BIOL 4908 2019-20 – Aerial insectivore
+    population declines
+
+-   Paisley Clunis BIOL 4908 2019-20 – Reciprocity in social networks
+
+-   Erin Jackson BIOL 4908 2019-20 – Flight morphology and bird
+    collisions
+
+### Technicians and Volunteers
+
+Many thanks to Courtney Donkersteeg, Alexa Dansereau, MJ McAllister,
+Lauren Miner, Albana Berberi, Kara Scott, Kyna Crumley, Blossom Opanike,
+Mahmoud El-Saadi, and other students who have been helping with our
+research!

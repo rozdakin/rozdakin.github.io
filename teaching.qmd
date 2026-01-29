@@ -1,0 +1,45 @@
+---
+title: "Teaching"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+### [Carleton University](https://calendar.carleton.ca/undergrad/courses/BIOL/)
+
+#### Undergraduate courses
+
+-   **Intro to Ecology** BIOL 2600 (starting 2026)
+
+-   **Intro to Biological Data** BIOL 1105
+
+-   **Social Evolution** BIOL 3804
+
+#### Graduate courses
+
+-   **Biological Data Science in R** BIOL 5404 – [course
+    details](https://rozdakin.github.io/BIOL5404/)
+
+-   **Bayesian Statistics for Biologists** BIOL 5408 co-taught
+
+-   **Biostatistics** BIOL 5407 co-taught
+
+------------------------------------------------------------------------
+
+### [Queen's University](https://biology.queensu.ca/)
+
+-   **Animal Behaviour** BIOL 321
+
+-   **Ecology and the Environment** BIOL 111
+
+    -   mammal extinction
+        ...[data](https://docs.google.com/spreadsheet/ccc?key=0AnRpD6FYqJZTdDNldzMzU0tzdGpQb2tOWGxBdzdxcHc#gid=0)
+        ...[results](https://drive.google.com/file/d/1OG2MnvYuig3u_yNaoUHlCWlF2QeCxXGV/view?usp=drive_link)
+
+    -   urban biodiversity
+        ...[data](https://docs.google.com/spreadsheet/ccc?key=0AnRpD6FYqJZTdHpZZTZKUktZOGJMYnRncTlVekFNd1E#gid=0)
+        ...[results](https://drive.google.com/file/d/1G-nXJMwBKuHOVFsA6AJNKtaWlJWne_hE/view?usp=drive_link)
+
+    -   climate change
+        ...[data](https://docs.google.com/spreadsheet/ccc?key=0AnRpD6FYqJZTdHlReFZZcGw3Vkx3bjY0aVpOT0hRTVE&usp=drive_web)
+        ...[results](https://drive.google.com/file/d/1ltazQl4Jg3L9HhHwA50w1pIloHfZKNDb/view?usp=drive_link)

@@ -1,0 +1,28 @@
+project:
+  type: website
+
+format:
+  html:
+    theme: sandstone
+    toc: false
+    link-external-newwindow: true
+    
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - href: team.html
+        text: Team
+      - href: research.html
+        text: Research
+      - href: papers.html
+        text: Papers
+      - href: teaching.html
+        text: Teaching
+      - href: media.html
+        text: Media
+
+editor: visual
+
