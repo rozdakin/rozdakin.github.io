@@ -1,1 +1,11 @@
 /* css styles */
+
+.navbar {
+  background-color: #444444; /* Example: Dark grey */
+  border-color: #444444;
+}
+.navbar-default .navbar-nav > li > a,
+.navbar-default .navbar-brand {
+  color: white; /* Text color */
+}
+

@@ -3,12 +3,13 @@ project:
 
 format:
   html:
-    theme: sandstone
+    theme: yeti
+    css: styles.css
     toc: false
     link-external-newwindow: true
-    
+
 website:
-  title: ""
+  title: "Roslyn Dakin"
   navbar:
     left:
       - href: index.html
@@ -25,4 +26,6 @@ website:
         text: Media
 
 editor: visual
+
+
 

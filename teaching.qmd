@@ -11,9 +11,9 @@ editor:
 
 -   **Intro to Ecology** BIOL 2600 (starting 2026)
 
--   **Intro to Biological Data** BIOL 1105
-
 -   **Social Evolution** BIOL 3804
+
+-   **Intro to Biological Data** BIOL 1105 (previous)
 
 #### Graduate courses
 
