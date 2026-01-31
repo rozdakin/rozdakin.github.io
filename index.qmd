@@ -2,7 +2,7 @@
 title: "Dynamic behaviour lab"
 ---
 
-![](images/clipboard-790791745.png){style="float: left; margin-right: 20px;" width="200"}
+![](images/clipboard-790791745.png){style="float: left; margin-right: 20px;" width="220"}
 
 We study animal behaviour, flight, and animal interactions.
 
@@ -10,9 +10,9 @@ We are located in the [Department of Biology](https://carleton.ca/biology/) at C
 
 **Feb 2026: I am looking for undergraduate students to apply for NSERC USRA and DSRI/BISRI to work with us in the lab this summer.**
 
-Please get in touch if you would like to discuss potential MSc and PhD positions.
+**If you are interested in applying, please get in touch.**
 
-We often have opportunities for undergraduate students to join the lab as Honours students, summer research assistants, or work study students. Email me and we can meet to discuss possibilities. It is a good idea to get in touch early because positions for Honours students are limited.
+Each year, I often have opportunities for undergraduate students to join the lab as an Honours student, intern, or work study student. Email me and we can meet to discuss possibilities. It's a good idea to get in touch early because positions are limited.
 
 Contact me at roslyn.dakin\[\@\]gmail\[.\]com
 
