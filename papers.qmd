@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-### ![](images/IMG_3241_copy_cropped.jpg){width="800"}
+<img src="images/IMG_3241_copy_cropped.jpg" style="max-width: 100%; filter: none;"/>
 
 **Research Articles**
 
