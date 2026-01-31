@@ -9,3 +9,17 @@
   color: white; /* Text color */
 }
 
+body {
+  max-width: 1000px; /* Adjust as needed */
+  margin: 0 auto;   /* Centers the content */
+}
+
+p {
+  font-size: 0.9em; /* Or use px, em */
+}
+
+h3 {
+  font-size: 1.2em; /* Adjust to desired size */
+  margin-bottom: 25px; /* Adjust 25px to your desired spacing */
+}
+

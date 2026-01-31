@@ -7,10 +7,12 @@ editor:
 
 ### Roz Dakin, Principal Investigator
 
-I am fascinated by animal behaviour, how it works, and how it evolves. I
-completed my BSc, MSc and PhD at Queen’s University, and was a
-postdoctoral fellow at UBC and the Smithsonian. I am passionate about
-data and quantitative biology.
+I am an Associate Professor in the Biology Department at Carleton
+University. I am fascinated by animal behaviour, how it works, and how
+it evolves. I'm also passionate about data and quantitative biology.
+
+I completed my BSc, MSc, and PhD at Queen’s University, and was a
+postdoctoral fellow at UBC and the Smithsonian.
 
 ------------------------------------------------------------------------
 
@@ -42,31 +44,31 @@ data and quantitative biology.
 
 ------------------------------------------------------------------------
 
-#### Alumni
-
--   Dr. Ethan Hermer, postdoc 2022-23 – Heuristics in science
+### Lab Alumni
 
 -   Juan Camilo Ríos-Orjuela, PhD 2025 - Hummingbird morphology and
     evolution, ELAP award
 
--   Ilias Berberi, PhD 2024 – Social and ecological competition, OGS
+-   Dr. Ilias Berberi, PhD 2024 – Social and ecological competition, OGS
     award
 
 -   Caitlin Menzies, MSc 2024 – Social behaviour in turtles (co w/
     Christina Davy)
 
--   Emil Isaksson, PhD 2024 – Social learning in birds (co w/ Julien
+-   Dr. Emil Isaksson, PhD 2024 – Social learning in birds (co w/ Julien
     Martin and Julie Morand-Ferron)
 
 -   Ru Ratnayake, MSc 2024 – Effects of the environment on social
     structure
+
+-   Dr. Ethan Hermer, postdoc 2022-23 – Heuristics in science
 
 -   Courtney Donkersteeg, MSc 2022 – Exploration behaviour in
     hummingbirds
 
 -   Erin Jackson, MSc 2022 – Bird migration dynamics
 
-#### Undergraduate Alumni
+### Undergraduate Alumni
 
 -   Aayushi Sharma BIOL 4901 2025 - Hummingbird behaviour
 

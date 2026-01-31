@@ -7,7 +7,7 @@ editor:
 
 ### [Carleton University](https://calendar.carleton.ca/undergrad/courses/BIOL/)
 
-#### Undergraduate courses
+**Undergraduate courses**
 
 -   **Intro to Ecology** BIOL 2600 (starting 2026)
 
@@ -15,10 +15,10 @@ editor:
 
 -   **Intro to Biological Data** BIOL 1105 (previous)
 
-#### Graduate courses
+**Graduate courses**
 
--   **Biological Data Science in R** BIOL 5404 – [course
-    details](https://rozdakin.github.io/BIOL5404/)
+-   **Biological Data Science in R** BIOL 5404 – [course website
+    here](https://rozdakin.github.io/BIOL5404/)
 
 -   **Bayesian Statistics for Biologists** BIOL 5408 co-taught
 
