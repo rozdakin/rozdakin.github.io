@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-### ![](images/clipboard-3850858346.png){width="800"}
+### ![](images/vlcsnap-2016-07-13-12h52m02s336.png){width="800"}
 
 From dodging collisions to deciding how much effort to expend on
 offspring, behaviour provides a means for animals to respond to diverse

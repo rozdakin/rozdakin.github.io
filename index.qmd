@@ -2,7 +2,7 @@
 title: "Dynamic behaviour lab"
 ---
 
-![](images/clipboard-790791745.png){style="float: left; margin-right: 20px;" width="220"}
+![](images/DBL_logo_pitch_RR.jpg){style="float: left; margin-right: 20px;" width="220"}
 
 We study animal behaviour, flight, and animal interactions.
 
