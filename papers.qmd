@@ -1,5 +1,6 @@
 ---
 title: "Papers"
+embed-resources: true
 editor: 
   markdown: 
     wrap: 72

@@ -1,5 +1,6 @@
 ---
 title: "Teaching"
+embed-resources: true
 editor: 
   markdown: 
     wrap: 72

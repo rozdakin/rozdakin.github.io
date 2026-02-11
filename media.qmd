@@ -1,5 +1,6 @@
 ---
 title: "Media"
+embed-resources: true
 editor: 
   markdown: 
     wrap: 72
